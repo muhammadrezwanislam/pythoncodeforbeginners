@@ -1,3 +1,2 @@
 # pythoncodeforbeginners
-Task 01:
-Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
+I have found an amazing blog for practicing python [http://www.practicepython.org/exercises/]. The problems are designed in such a way that would help the learner to build and develop the programming skills. I will be solving and uploading my solutions and some other solutions that show elegent thought process! 
